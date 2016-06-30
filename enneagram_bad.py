@@ -35,10 +35,6 @@ time()
 q = [0]
 z = 1
 
-the_helper = open('questions.txt','w')
-for item in questions:
-    the_helper.write(str(item) + '\n')
-
 for x in array:
     print(numb[z], end=". "),
     n = input(questions[x])
