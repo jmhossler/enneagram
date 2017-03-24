@@ -3,9 +3,9 @@ from question import Question
 
 class Enneagram:
 
-    def __init__(self, name, log_file='results.txt', questions='questions.txt'):
+    def __init__(self, name, log_file='results.txt', question_file='questions.txt'):
         self.name = name
-        self.questions = self._get_questions(questions)
+        self.question_file = self._get_questions(question_file)
         self.log_file = log_file
         self.answers = []
 
@@ -19,9 +19,9 @@ class Enneagram:
             self.answers.append(self.questions[i].get_result(answer))
             yield i
 
-    def _get_questions(self, fp):
+    def _get_questions(self, filename):
         questions = []
-        for line in open(fp,'r'):
+        for line in open(filename,'r'):
             questions.append(Question(*line.split('|')))
 
         return questions
