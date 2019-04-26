@@ -1,6 +1,7 @@
 =========
 enneagram
 =========
+[![Build Status](https://travis-ci.com/jmhossler/enneagram.svg?branch=master)](https://travis-ci.com/jmhossler/enneagram)
 
 
 Add a short description here!
