@@ -292,599 +292,599 @@ if q[16] == 2:
     the_challenger += 1
 
 if q[17] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[17] == 2:
     the_helper += 1
 
 if q[18] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[18] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[19] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[19] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[20] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[20] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[21] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[21] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[22] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[22] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[23] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[23] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[24] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[24] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[25] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[25] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[26] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[26] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[27] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[27] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[28] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[28] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[29] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[29] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[30] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[30] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[31] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[31] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[32] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[32] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[33] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[33] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[34] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[34] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[35] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[35] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[36] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[36] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[37] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[37] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[38] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[38] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[39] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[39] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[40] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[40] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[41] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[41] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[42] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[42] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[43] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[43] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[44] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[44] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[45] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[45] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[46] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[46] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[47] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[47] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[48] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[48] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[49] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[49] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[50] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[50] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[51] == 1:
-    the_reformer = +1
+    the_reformer += 1
 if q[51] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[52] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[52] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[53] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[53] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[54] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[54] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[55] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[55] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[56] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[56] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[57] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[57] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[58] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[58] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[59] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[59] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[60] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[60] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[61] == 1:
-    the_reformer = +1
+    the_reformer += 1
 if q[61] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[62] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[62] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[63] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[63] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[64] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[64] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[65] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[65] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[66] == 1:
-    the_reformer = +1
+    the_reformer += 1
 if q[66] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[67] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[67] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[68] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[68] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[69] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[69] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[70] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[70] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[71] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[71] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[72] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[72] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[73] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[73] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[74] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[74] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[75] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[75] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[76] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[76] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[77] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[77] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[78] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[78] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[79] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[79] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[80] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[80] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[81] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[81] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[82] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[82] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[83] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[83] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[84] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[84] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[85] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[85] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[86] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[86] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[87] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[87] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[88] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[88] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[89] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[89] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[90] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[90] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[91] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[91] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[92] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[92] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[93] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[93] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[94] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[94] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[95] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[95] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[96] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[96] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[97] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[97] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[98] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[98] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[99] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[99] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[100] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[100] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[101] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[101] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[102] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[102] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[103] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[103] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[104] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[104] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[105] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[105] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[106] == 1:
-    the_reformer = +1
+    the_reformer += 1
 if q[106] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[107] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[107] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[108] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[108] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[109] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[109] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[110] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[110] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[111] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[111] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[112] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[112] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[113] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[113] == 2:
-    the_individualist = +1
+    the_individualist += 1
 
 if q[114] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[114] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[115] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[115] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[116] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[116] == 2:
-    the_investigator = +1
+    the_investigator += 1
 
 if q[117] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[117] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[118] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[118] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[119] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[119] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[120] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[120] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[121] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[121] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[122] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[122] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[123] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[123] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[124] == 1:
-    the_loyalist = +1
+    the_loyalist += 1
 if q[124] == 2:
-    the_challenger = +1
+    the_challenger += 1
 
 if q[125] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[125] == 2:
-    the_helper = +1
+    the_helper += 1
 
 if q[126] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[126] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[127] == 1:
-    the_enthusiast = +1
+    the_enthusiast += 1
 if q[127] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[128] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[128] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[129] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[129] == 2:
-    the_achiever = +1
+    the_achiever += 1
 
 if q[130] == 1:
-    the_investigator = +1
+    the_investigator += 1
 if q[130] == 2:
-    the_peacemaker = +1
+    the_peacemaker += 1
 
 if q[131] == 1:
-    the_helper = +1
+    the_helper += 1
 if q[131] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[132] == 1:
-    the_challenger = +1
+    the_challenger += 1
 if q[132] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[133] == 1:
-    the_individualist = +1
+    the_individualist += 1
 if q[133] == 2:
-    the_reformer = +1
+    the_reformer += 1
 
 if q[134] == 1:
-    the_peacemaker = +1
+    the_peacemaker += 1
 if q[134] == 2:
-    the_enthusiast = +1
+    the_enthusiast += 1
 
 if q[135] == 1:
-    the_achiever = +1
+    the_achiever += 1
 if q[135] == 2:
-    the_loyalist = +1
+    the_loyalist += 1
 
 if q[136] == 1:
     the_investigator += 1
@@ -956,7 +956,7 @@ def main():
 
 def write():
     n = str(name)
-    s = open("enneagram.txt", "a")
+    s = open("enneagram.txt", "w")
     s.write(n)
     s.write("\n")
     s.write(w)
